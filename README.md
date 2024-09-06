@@ -2,7 +2,7 @@
 Steps to Create Expense Tracker in React
 Step 1: Create a new React JS project using the following command
 
-npx create-react-app Project_Name
+npx create-react-app Project
 
 Step 2: Change to the project directory
 
